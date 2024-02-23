@@ -1,0 +1,178 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "NFT Platform",
+      "id": 1,
+      "attr": {
+        "position": [
+          -162,
+          -61,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Server part",
+          "id": 2,
+          "ideas": {
+            "1": {
+              "title": "Databases",
+              "id": 4,
+              "ideas": {
+                "1": {
+                  "title": "MongoDB",
+                  "id": 5
+                },
+                "2": {
+                  "title": "PostgreSQL",
+                  "id": 7
+                },
+                "3": {
+                  "title": "RedShift",
+                  "id": 8
+                },
+                "4": {
+                  "title": "Redis",
+                  "id": 9
+                }
+              }
+            },
+            "2": {
+              "title": "Microservices",
+              "id": 10,
+              "ideas": {
+                "1": {
+                  "title": "Account and cryptowallet",
+                  "id": 11
+                },
+                "2": {
+                  "title": "Collection and auction management",
+                  "id": 12
+                },
+                "3": {
+                  "title": "analytics and reporting",
+                  "id": 13
+                },
+                "4": {
+                  "title": "Notification microservice",
+                  "id": 14
+                }
+              }
+            },
+            "3": {
+              "title": "Message exchanges",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "HTTP",
+                  "id": 16
+                },
+                "2": {
+                  "title": "MessageBrocker",
+                  "id": 17
+                }
+              }
+            },
+            "4": {
+              "title": "Auth",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "JWT",
+                  "id": 19
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "textAlign": "center"
+            }
+          }
+        },
+        "2": {
+          "title": "DevOps",
+          "id": 35,
+          "ideas": {
+            "1": {
+              "title": "CI/CD",
+              "id": 36
+            },
+            "2": {
+              "title": "Containerisation",
+              "id": 37
+            },
+            "3": {
+              "title": "Logging",
+              "id": 38
+            },
+            "4": {
+              "title": "Container management",
+              "id": 39
+            }
+          }
+        },
+        "-1": {
+          "title": "Frontend part",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "Frameworks",
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "React",
+                  "id": 22,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "View",
+                  "id": 24
+                }
+              }
+            },
+            "2": {
+              "title": "State management",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "Redux",
+                  "id": 26,
+                  "ideas": {}
+                }
+              }
+            },
+            "3": {
+              "title": "Backend requests",
+              "id": 28,
+              "ideas": {
+                "1": {
+                  "title": "axios",
+                  "id": 29,
+                  "ideas": {}
+                }
+              }
+            },
+            "4": {
+              "title": "Data processing",
+              "id": 32,
+              "ideas": {
+                "1": {
+                  "title": "Formik",
+                  "id": 33
+                },
+                "2": {
+                  "title": "yup",
+                  "id": 34
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "NFT Platform"
+}
